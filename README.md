@@ -1,5 +1,6 @@
 University Admission Prediction (Date: 2021-10 to 2021-11)
 Project Overview: Developed a predictive model to determine the likelihood of university admissions based on various factors using machine learning techniques.
+
 Key Responsibilities:
 •	Data Collection and Cleaning:
 o	Gathered historical data on university admissions from Kaggle , including academic scores, extracurricular activities, and demographic information.
